@@ -1,4 +1,5 @@
 # Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus 
+(with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto)
 
 > **Current Version:** [August 2020](/genderbonus.pdf)
 
